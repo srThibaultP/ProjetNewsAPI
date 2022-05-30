@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_news">Breaking News</string>
+    <string name="title_saved">Saved News</string>
+    <string name="title_details">Read more</string>
+
+    <string name="retry">Retry</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="no_data_found">No data found</string>
+    <string name="execution_failure">"Error: %s"</string>
+    <string name="article_saved">Article saved</string>
+    <string name="article_already_saved">Article already saved</string>
+    <string name="article_deleted">Article deleted</string>
+
+    <string name="undo">Undo</string>
+    <string name="search">Search</string>
+    <string name="error_not_loaded">Results could not be loaded</string>
+</resources>

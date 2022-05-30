@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">ProjetNewsAPI</string>
+    <string name="app_name" translatable="false">Projet News API</string>
+
+    <string name="title_news">Fil d\'actualité</string>
+    <string name="title_saved">Mes favoris</string>
+    <string name="title_details">Lire l\'actualité</string>
+
+    <string name="retry">Réessayer</string>
+    <string name="error_occurred">Une erreur est survenue</string>
+    <string name="no_data_found">Aucune donnée disponible</string>
+    <string name="execution_failure">"Erreur: %s"</string>
+    <string name="article_saved">Article sauvegardé</string>
+    <string name="article_already_saved">Article déja sauvegardé</string>
+    <string name="article_deleted">Article supprimé</string>
+
+    <string name="undo">Annuler</string>
+    <string name="search">Rechercher</string>
+    <string name="error_not_loaded">Les résultats n\'ont pas pu être sauvegardé</string>
 </resources>
